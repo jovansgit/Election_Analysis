@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit: 
-The purpose of this project is to provide electional analysis needed by the Colorado Board of Elections.
+The purpose of this project is to provide election analysis needed by the Colorado Board of Elections.
 In this project, our final Python script will deliver the following information: 
 
 * Total number of votes cast
@@ -28,7 +28,7 @@ In this project, our final Python script will deliver the following information:
 
 * Diana DeGette won this election by receiving 272,892 votes which equated to 73.8% of the total
 
-* Election-Audit Summary
+### Election-Audit Summary
   * Our script can be used for any future state elections throughout the US.
   * In the future if we received additional data such as a voter ethnicty field we could alter the script to output the percentage of candidate votes by voter ethnicty.  
   * We could also add a state field to our data set to analyze country elections.
